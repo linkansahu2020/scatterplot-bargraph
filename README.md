@@ -9,7 +9,7 @@
 </ul>
 <h3>Description</h3>
 <p><b>BarChart:-</b> This chart contain "Alcohol" in x-axix and "Malic Acid" in y-axis</p>
-<img src='./images/bar-chart.png'>
+<img src='./public/images/bar-chart.png'>
 <p><b>ScatterPlot:-</b> This chart contain "Hue" in x-axix and "Color Intensity" in y-axis</p>
-<img src='./images/scatter-plot.png'>
+<img src='./public/images/scatter-plot.png'>
 <p>Both of the chart have fix height and width while screen size is greater then 500. And for below 500 the charts size will decrease accordingly</p>
